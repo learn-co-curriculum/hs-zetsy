@@ -1,9 +1,4 @@
----
-languages: html, css
-tags: dev tools, developer tools, css selectors, fonts, typography, color, kids
-type: lab
-level: 2
----
+
 
 # Zetsy
 
